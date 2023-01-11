@@ -1,0 +1,63 @@
+{
+  "format_version": "1.1",
+  "package_name": "infra/rbe/client/windows-amd64",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "CHANGELOG.md",
+      "size": 72658,
+      "hash": "tp6TIEZ6prf4jlOx8icgG1kOuHAGADrH8_LQaNzrydsC"
+    },
+    {
+      "name": "LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "NOTICE",
+      "size": 6808,
+      "hash": "qRjF8Ls1dY-YIpgTfxjowuLiK6UBpTgLGxHkOosrhJ8C"
+    },
+    {
+      "name": "bootstrap.exe",
+      "size": 20220928,
+      "hash": "BIZjHrIDnxWWwrfN7GT-RqvPtw9lm9zgc71cSrRy8N0C"
+    },
+    {
+      "name": "dumpstats.exe",
+      "size": 12754432,
+      "hash": "s1KQ00I0PtPsH7NJIn898wFzE_XmGa8C0YOJRvWl5pYC"
+    },
+    {
+      "name": "logdump.exe",
+      "size": 12123136,
+      "hash": "2pViiCAo6CT0_nmUp4hfDxvlJm22pHK512ooAsSgwnAC"
+    },
+    {
+      "name": "reproxy.exe",
+      "size": 160581870,
+      "hash": "WW0aoouAyy1TiVjgJwfuQAtIgUx2NHVGHiEIMxry0_8C"
+    },
+    {
+      "name": "reproxystatus.exe",
+      "size": 12137472,
+      "hash": "hm5oW_a3q1BR8TaVk1HnNVwdErrs4N72O9f42x8euUsC"
+    },
+    {
+      "name": "rewrapper.exe",
+      "size": 12683776,
+      "hash": "UishRBihS6Q6rSH3iGubuFLI6X4rvO0WaDF_KONE_fEC"
+    },
+    {
+      "name": "rpl2cloudtrace.exe",
+      "size": 15613952,
+      "hash": "crnwBqQGy5CnIM4PCDPjZWx_LyA5AD8xRSfW8FkMn34C"
+    },
+    {
+      "name": "rpl2trace.exe",
+      "size": 12140544,
+      "hash": "X-Hfjg3dqobkQfoWVPYbf98fEFpkS7c_nFrPcYLyT14C"
+    }
+  ]
+}
